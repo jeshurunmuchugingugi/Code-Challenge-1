@@ -4,25 +4,25 @@
 
 A simple JavaScript program that calculates the required ingredients to make a specified number of cups of  Kenyan Chai .
 
-# 🧾 Description
+# Description
 
 This project helps users determine the exact quantity of ingredients needed to prepare their desired number of **Chai Bora** cups — a flavorful and authentic Kenyan tea. The ingredients include water, milk, tea leaves (majani), and sugar (sukari).
 
-# 🧠 How It Works
+# How It Works
 
 The program stores the quantity of each ingredient required to make **1 cup** of chai.
 It prompts the user to input the number of cups they want to prepare.
 It then calculates and displays the total quantities of each ingredient based on the input.
 If the input is invalid (e.g., less than 1), it will alert the user accordingly.
 
-# 🧮 Ingredients per 1 Cup
+# Ingredients per 1 Cup
 
  Water: **200 ml**
  Milk: **50 ml**
  Tea Leaves: **1 tablespoon**
  Sugar: **2 teaspoons**
 
-# 📋 Example Output
+# Example Output
 
 If the user wants to make 3 cups of chai:
 To make 3 cups of Kenyan Chai, you will need:
