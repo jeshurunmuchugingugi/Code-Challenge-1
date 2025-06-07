@@ -49,7 +49,7 @@ Sure! Here's a `README.md` you can use for your Boda Boda Ride Fare Estimator pr
 ## 👤 Project Author
     Name: [Your Full Name or Preferred Alias]
     Email: [your.email@example.com]
-    GitHub: @jeshurun.muchugi
+    GitHub: @jeshurunmuchugingugi
     Location: [City, Country]
 
 ## 📄 License
@@ -119,7 +119,7 @@ function calculateBodaFare(distanceInKm){
 ## 👤 Project Author
     Name: [Your Full Name or Preferred Alias]
     Email: [your.email@example.com]
-    GitHub: @jeshurun.muchugi
+    GitHub: @jeshurunmuchugingugi
     Location: [City, Country]
 
 ## 📄 License
@@ -218,7 +218,7 @@ function estimateTransactionFee(amountToSend) {
 # 👤 Project Author
 Name: [Jeshurun Muchugi]
 Email: [jeshurunmuchugi@gmail.com]
-GitHub: @jeshurun.muchugi
+GitHub: @jeshurunmuchugingugi
 Location: Nairobi, Kenya
 
 ## 📄 License
