@@ -40,19 +40,13 @@ Enjoy your Chai Bora!
 2. Open it in a browser environment that supports `prompt()`.
 3. Enter the number of chai cups you'd like to make when prompted.
 
-##  Notes
-
-The script uses `prompt()` which works in browser environments.
-Sure! Here's a `README.md` you can use for your Boda Boda Ride Fare Estimator project:
----
-
-## 👤 Project Author
+##  Project Author
     Name: [Your Full Name or Preferred Alias]
     Email: [your.email@example.com]
     GitHub: @jeshurunmuchugingugi
     Location: [City, Country]
 
-## 📄 License
+##  License
     This project is licensed under the Simple Software License.
     You may use, modify, and share it for personal, educational, or commercial purposes.
     The software is provided “as is” with no warranties.
@@ -116,13 +110,13 @@ function calculateBodaFare(distanceInKm){
 * The logic checks if the input is a valid number before calculating the fare.
 * Currently, the fare table is hardcoded; you can modify `fareTable` to change the rates.
 
-## 👤 Project Author
+##  Project Author
     Name: [Your Full Name or Preferred Alias]
     Email: [your.email@example.com]
     GitHub: @jeshurunmuchugingugi
     Location: [City, Country]
 
-## 📄 License
+##  License
 
 Copyright (c) [2025] [Jeshurun Muchugi]
 
@@ -146,14 +140,14 @@ This license applies to the “Boda Boda Ride Fare Estimator” project and its 
 
 This is a simple JavaScript program that estimates the transaction fee when sending money using a mobile money service (like M-PESA in Kenya). The script prompts the user for the amount they want to send and calculates the corresponding transaction fee based on defined limits.
 
-## 🚀 Features
+##  Features
 
 * Calculates a transaction fee at **1.5%** of the amount to be sent.
 * Ensures the **minimum fee is KES 10** and the **maximum fee is KES 70**.
 * Displays the **total amount to be debited** from the sender’s account.
 * User-friendly prompt and informative console output.
 
-## 🧠 Logic
+##  Logic
 
 The fee structure works as follows:
 
@@ -161,7 +155,7 @@ The fee structure works as follows:
 * If the calculated fee is **greater than KES 70**, the maximum fee (KES 70) is applied.
 * Otherwise, the **1.5% fee** is applied.
 
-## 💻 How It Works
+##  How It Works
 
 When you run the program:
 
@@ -169,7 +163,7 @@ When you run the program:
 2. The function `estimateTransactionFee()` calculates the fee.
 3. The result is displayed in the browser console.
 
-## 🧾 Sample Output
+##  Sample Output
 
 If you send KES 500:
 
@@ -180,7 +174,7 @@ Sending KES 500:
     Send Money Securely!
 ```
 
-## 🛠️ Code
+##  Code
 
 ```javascript
 let transactionFeeChart = {
@@ -215,13 +209,13 @@ function estimateTransactionFee(amountToSend) {
 }
 ```
 
-# 👤 Project Author
-Name: [Jeshurun Muchugi]
-Email: [jeshurunmuchugi@gmail.com]
-GitHub: @jeshurunmuchugingugi
-Location: Nairobi, Kenya
+#  Project Author
+    Name: [Your Full Name or Preferred Alias]
+    Email: [your.email@example.com]
+    GitHub: @jeshurunmuchugingugi
+    Location: [City, Country]
 
-## 📄 License
+##  License
 
 This project is for educational/demo purposes and does not represent actual mobile money rates.
 
