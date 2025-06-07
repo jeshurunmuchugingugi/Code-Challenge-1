@@ -52,7 +52,7 @@ Sure! Here's a `README.md` you can use for your Boda Boda Ride Fare Estimator pr
 
 ############################################################################################
 
-# 2 Boda Boda Ride Fare Estimator
+Challenge 2: Boda Boda Ride Fare Estimator 🛵
 
 This is a simple JavaScript-based fare estimator for **Boda Boda** (motorbike taxi) rides. It prompts the user for the distance they plan to travel and then calculates the estimated fare based on a predefined pricing structure.
 
