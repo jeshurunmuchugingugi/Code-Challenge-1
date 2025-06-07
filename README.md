@@ -41,10 +41,10 @@ Enjoy your Chai Bora!
 3. Enter the number of chai cups you'd like to make when prompted.
 
 ##  Project Author
-    Name: [Your Full Name or Preferred Alias]
-    Email: [your.email@example.com]
+    Name: [Jeshurun Muchugi]
+    Email: [jeshurunmuchugi@gmail.com]
     GitHub: @jeshurunmuchugingugi
-    Location: [City, Country]
+    Location: [Nairobi, Kenya]
 
 ##  License
     This project is licensed under the Simple Software License.
@@ -111,10 +111,10 @@ function calculateBodaFare(distanceInKm){
 * Currently, the fare table is hardcoded; you can modify `fareTable` to change the rates.
 
 ##  Project Author
-    Name: [Your Full Name or Preferred Alias]
-    Email: [your.email@example.com]
+    Name: [Jeshurun Muchugi]
+    Email: [jeshurunmuchugi@gmail.com]
     GitHub: @jeshurunmuchugingugi
-    Location: [City, Country]
+    Location: [Nairobi, Kenya]
 
 ##  License
 
@@ -210,10 +210,10 @@ function estimateTransactionFee(amountToSend) {
 ```
 
 #  Project Author
-    Name: [Your Full Name or Preferred Alias]
-    Email: [your.email@example.com]
+    Name: [jJeshurun Muchugi]
+    Email: [jeshurunmuchugi@email.com]
     GitHub: @jeshurunmuchugingugi
-    Location: [City, Country]
+    Location: [Nairobi, Kenya]
 
 ##  License
 
